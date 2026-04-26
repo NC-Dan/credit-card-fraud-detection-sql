@@ -101,7 +101,7 @@ This project analyses 283,726 real European credit card transactions to:
 A typical fraud transaction is:
 - Amount between $0-$100 (73.6% probability)
 - Occurring between midnight and 5am (highest risk window)
-- Appearing statistically normal (94.1% of cases)
+- Appearing statistically normal (93.9% of cases)
 - Part of a sequence — micro test followed by mid-range escalation
 
 ### Finding 10 — Imbalanced Data Requires Specialist Techniques
