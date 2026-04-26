@@ -53,6 +53,7 @@ This project analyses 283,726 real European credit card transactions to:
 - Fraud rate: **0.1667%** — 1 in every 600 transactions
 - A model predicting everything as legitimate would be 99.83% accurate — and completely useless
 - This is why statistical anomaly detection is essential
+- ![A1](A1.png)
 
 ### Finding 2 — Fraudsters Spend More, But Not Too Much
 - Fraud avg amount: **$123.87** vs Legitimate avg: **$88.41** — 40% higher
@@ -70,12 +71,14 @@ This project analyses 283,726 real European credit card transactions to:
 - Large transactions (>$1,000): **0.2937% fraud rate** — highest of all bands
 - Only 3,064 large transactions exist — but 9 are fraudulent
 - Combined with micro test transactions — fraud follows a clear two-stage pattern
+- ![A2](A2.png)
 
 ### Finding 5 — Fraud Peaks at 2am
 - Hour 2am: **1.4550% fraud rate** — nearly 10x the dataset average
 - Hour 4am: 1.0459% — second highest
 - Top 3 fraud hours are all between midnight and 5am
 - Fraudsters operate when human monitoring is at its lowest
+- ![A3](A3.png)
 
 ### Finding 6 — Midnight Fraud Is Bolder
 - Hour 0 (midnight): only 6 fraud cases but avg amount **$303.35** — highest night avg
@@ -92,6 +95,7 @@ This project analyses 283,726 real European credit card transactions to:
 - $100-$1,000 fraud: 116 transactions | **$38,497.60 total value** — 66% of all fraud value
 - $0-$100 fraud: 348 transactions | $6,856.46 total value — high volume, low value
 - Total fraud value across all 473 cases: **$58,591.39**
+- ![A4](A4.png)
 
 ### Finding 9 — The Complete Fraud Profile
 A typical fraud transaction is:
