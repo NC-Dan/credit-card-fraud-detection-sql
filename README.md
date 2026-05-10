@@ -173,7 +173,7 @@ ULB Machine Learning Group — real anonymised European cardholder transactions
 
 ## | Other SQL Projects |
 
-- 🔗 [Olist E-Commerce SQL Analysis — Intermediate](https://github.com/NC-Dan/olist-ecommerce-sql-analysis)
+- 🔗 [Olist E-Commerce SQL Analysis](https://github.com/NC-Dan/olist-ecommerce-sql-analysis)
 - 🔗 [IBM HR Attrition Analysis — SQL](https://github.com/NC-Dan/ibm-hr-attrition-sql-analysis)
 
   ---
